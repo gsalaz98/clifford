@@ -6,4 +6,4 @@ I'll eventually add in more of my research and trading algorithms as time progre
 
 This project is licensed under the MIT License. Feel free to use these ideas any way you see fit or conduct further research.
 
-**Special Thanks** to Lars Nøstdal [lnostdal](https://github.com/lnostdal) for providing insight and motivation :)
+**Special Thanks** to [Lars Nøstdal (lnostdal)](https://github.com/lnostdal) for providing insight and motivation :)
